@@ -1,0 +1,28 @@
+{
+  "name": "festival-musica-v2",
+  "version": "1.0.0",
+  "description": "Proyecto con sass en gulp ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garaPM/festival-Musica-v2.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp",
+    "Web"
+  ],
+  "author": "Gonzalo Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garaPM/festival-Musica-v2/issues"
+  },
+  "homepage": "https://github.com/garaPM/festival-Musica-v2#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.43.4"
+  }
+}
